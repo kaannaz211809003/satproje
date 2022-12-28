@@ -1,0 +1,2 @@
+# satproje
+bitmiş proje
