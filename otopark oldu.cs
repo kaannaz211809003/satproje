@@ -1,6 +1,6 @@
 
 using System;
-
+// Ödevde kamyon ve iş makinesine günlük ücret atanmamış bu nedenle ben ikisine değer atadım
 namespace OtoparkUcretiHesaplama
 {
     class Program
